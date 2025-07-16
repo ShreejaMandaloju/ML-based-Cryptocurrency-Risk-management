@@ -59,9 +59,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cryptbitcoin',
         'HOST': 'localhost',
-        'PORT': '3306',
-        'USER': 'root',
-        'PASSWORD': 'Sm@210305',
+        'PORT': 'port number',
+        'USER': 'username',
+        'PASSWORD': 'password',
     }
 }
 
